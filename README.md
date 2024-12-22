@@ -20,9 +20,9 @@ Down: ↓
 Left: ←
 Right: →
 
-## **Objective:** The snake will grow longer each time it eats food. Avoid running into the walls or the snake's own body.
+**Objective:** The snake will grow longer each time it eats food. Avoid running into the walls or the snake's own body.
 
-## **Scoring:** Each time the snake eats food, the score increases by 1.
+**Scoring:** Each time the snake eats food, the score increases by 1.
 
 ## **Installation and Compilation Requirements:**
 
