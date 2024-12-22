@@ -1,4 +1,4 @@
-Snake Game
+# H1 Snake Game
 
 Overview:
 This is a classic Snake Game implemented in C++. The goal of the game is to control the snake, eat the food, and grow longer without colliding into walls or itself. The more food the snake eats, the higher the score.
