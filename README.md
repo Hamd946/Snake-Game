@@ -39,3 +39,7 @@ make
 ./game-release
 
 this will work strictly for ubuntu.
+
+## **In Game Images:**
+(Images/image1.png)
+(Images/image2.png)
