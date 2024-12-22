@@ -41,5 +41,5 @@ make
 this will work strictly for ubuntu.
 
 ## **In Game Images:**
-(Images/Image1.png)
-(Images/Image2.png)
+!(Images/Image1.png)
+!(Images/Image2.png)
